@@ -1,4 +1,5 @@
-name: Python Lintingon:
+name: Python Linting
+on:
   push:
     branches: [master]
   pull_request:
